@@ -1,0 +1,6 @@
+#Ignore .exe files
+*.exe
+
+#Ignore .bat files
+*.bat
+
